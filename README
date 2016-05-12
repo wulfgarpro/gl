@@ -1,3 +1,6 @@
 g++ drawing_polygons_exercise_3.cpp -o drawing_polygons_exercise_3 -lsfml-graphics -lsfml-window -lsfml-system -lGLEW -lGL -std=c++11
 g++ drawing_polygons_exercise_1.cpp -o drawing_polygons_exercise_1 -lsfml-graphics -lsfml-window -lsfml-system -lGLEW -lGL -std=c++11
 g++ drawing_polygons_exercise_2.cpp -o drawing_polygons_exercise_2 -lsfml-graphics -lsfml-window -lsfml-system -lGLEW -lGL -std=c++11
+g++ drawing_polygons_1.cpp -o drawing_polygons_1 -lsfml-graphics -lsfml-window -lsfml-system -lGLEW -lGL -std=c++11
+g++ drawing_polygons_2.cpp -o drawing_polygons_2 -lsfml-graphics -lsfml-window -lsfml-system -lGLEW -lGL -std=c++11
+g++ drawing_polygons_3.cpp -o drawing_polygons_3 -lsfml-graphics -lsfml-window -lsfml-system -lGLEW -lGL -std=c++11
