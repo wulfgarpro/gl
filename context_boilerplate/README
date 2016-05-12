@@ -1,0 +1,2 @@
+g++ sfml_test.cpp -o sfml_test -lsfml-graphics -lsfml-window -lsfml-system
+g++ context_creation.cpp -o context_creation -lsfml-graphics -lsfml-window -lsfml-system -lGLEW
